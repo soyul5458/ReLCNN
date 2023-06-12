@@ -1,7 +1,11 @@
 # ReLCNN
 
 
-## Data Preparation
+## Data Access  
+The training data of the 2022 Challenge can be downloaded from [PhysioNet](https://physionet.org/content/circor-heart-sound/1.0.3/). You can also download it directly using this [link](https://physionet.org/static/published-projects/circor-heart-sound/the-circor-digiscope-phonocardiogram-dataset-1.0.3.zip) or the following command:
+```
+wget -r -N -c -np https://physionet.org/files/circor-heart-sound/1.0.3/
+```
 
 
 ## Requirements
