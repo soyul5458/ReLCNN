@@ -59,8 +59,8 @@ If you use this code please cite the paper.
 @
 ```
 ## Useful links
-* Challenge website
-* (Scoring code)[https://github.com/physionetchallenges/evaluation-2022]
+* [Challenge website](https://moody-challenge.physionet.org/2022/)
+* [Scoring code](https://github.com/physionetchallenges/evaluation-2022)
 
 ## References
 [1] Heart Murmur Detection from Phonocardiogram Recordings: The George B.
