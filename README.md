@@ -7,11 +7,26 @@ The training data of [the George B. Moody PhysioNet Challenge 2022](https://mood
 wget -r -N -c -np https://physionet.org/files/circor-heart-sound/1.0.3/
 ```
 
+## How do I run these scripts?
+You can install the dependencies for these scripts by creating a Docker image (see below) and running
+```
+pip install requirements.txt
+```
+
+You can train your model by running
+```
+python train_model.py training_data model
+```
+
+where
+
+* training_data (input; required) is a folder with the training data files and
+* model (output; required) is a folder for saving your model.
 
 ## Requirements
 * Tensorflow (tested with version 1.3)
 * Numpy (tested with version 1.13.1)
-* Scipy (tested with version 0.19.1)
+* Scipy (tested with version 0.19.1)  
 For openmax experiments you will need to clone https://github.com/abhijitbendale/OSDN into the this directory.
 
 
