@@ -43,3 +43,19 @@ If you use this code please cite the paper.
 ```
 @
 ```
+
+
+## References
+[1] Heart Murmur Detection from Phonocardiogram Recordings: The George B.
+Moody PhysioNet Challenge 2022
+```
+@inproceedings{reyna2022heart,
+  title={Heart murmur detection from phonocardiogram recordings: The george b. moody physionet challenge 2022},
+  author={Reyna, Matthew A and Kiarashi, Yashar and Elola, Andoni and Oliveira, Jorge and Renna, Francesco and Gu, Annie and Alday, Erick A Perez and Sadr, Nadi and Sharma, Ashish and Mattos, Sandra and others},
+  booktitle={2022 Computing in Cardiology (CinC)},
+  volume={498},
+  pages={1--4},
+  year={2022},
+  organization={IEEE}
+}
+```
